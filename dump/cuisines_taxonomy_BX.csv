@@ -1,0 +1,119 @@
+cuisine_id,cuisine,singular,plural,singular_long,ethnic
+2,Mexican,Mexican,Mexican Food,Mexican Food,ethnic
+3,Italian,Italian,Italian Food,Italian Food,ethnic
+5,French,French,French Cuisine,French Cuisine,ethnic
+6,American,American,American Food,American Food,ethnic
+7,Subs,Sub,Subs,Sub,not
+8,Sandwiches,Sandwich,Sandwiches,Sandwich,not
+9,Asian,Asian,Asian Food,Asian Food,ethnic
+10,Chinese,Chinese,Chinese Food,Chinese Food,ethnic
+11,Noodles,Noodle,Noodles,Noodle,not
+12,Classic,Classic,Classic Food,Classic Food,not
+13,Steak,Steak,Steak,Steak,not
+14,Deli,Deli,Deli Food,Deli Food,not
+16,Japanese,Japanese,Japanese Food,Japanese Food,ethnic
+17,Cajun,Cajun,Cajun Food,Cajun Food,ethnic
+19,Indian,Indian,Indian Food,Indian Food,ethnic
+20,Vietnamese,Vietnamese,Vietnamese Food,Vietnamese Food,ethnic
+24,Grill,Grill,Grilled Food,Grilled Food,not
+25,Pizza,Pizza,Pizza,Pizza,not
+26,Seafood,Seafood,Seafood,Seafood,not
+27,Greek,Greek,Greek Food,Greek Food,not
+28,Thai,Thai,Thai Food,Thai Food,ethnic
+29,Sushi,Sushi,Sushi,Sushi,not
+30,Bakery,Bakery,Bakery Food,Bakery Food,not
+31,Vegetarian,Vegetarian,Vegetarian,Vegetarian,not
+32,Breakfast,Breakfast,Breakfast,Breakfast,not
+34,Soup,Soup,Soup,Soup,not
+35,Spanish,Spanish,Spanish Food,Spanish Food,ethnic
+36,Tapas,Tapas,Tapas,Tapas,not
+38,Korean,Korean,Korean Food,Korean Food,ethnic
+39,Mediterranean,Mediterranean,Mediterranean Food,Mediterranean Food,ethnic
+45,Lebanese,Lebanese,Lebanese Food,Lebanese Food,ethnic
+46,Eclectic,Eclectic,Eclectic Food,Eclectic Food,not
+47,Turkish,Turkish,Turkish Food,Turkish Food,ethnic
+48,Mandarin,Mandarin,Mandarin Food,Mandarin Food,ethnic
+50,Middle Eastern,Middle Eastern,Middle Eastern Food,Middle Eastern Food,ethnic
+51,Late Night,Late Night,Late Night Food,Late Night Food,not
+57,Ribs,Rib,Ribs,Rib,not
+58,Caribbean,Caribbean,Caribbean Food,Caribbean Food,ethnic
+59,Szechwan,Szechwan,Szechwan,Szechwan,ethnic
+60,Cantonese,Cantonese,Cantonese Food,Cantonese Food,ethnic
+61,BBQ,BBQ,BBQ,BBQ,not
+62,Healthy,Healthy,Healthy Food,Healthy Food,not
+63,Low Carb,Low Carb,Low Carb Food,Low Carb Food,not
+66,Salads,Salad,Salads,Salad,not
+67,Pasta,Pasta,Pasta,Pasta,not
+70,Bagels,Bagel,Bagels,Bagel,not
+71,Wraps,Wrap,Wraps,Wrap,not
+72,Fine Dining,Fine Dining,Fine Dining Food,Fine Dining Food,not
+74,Peruvian,Peruvian,Peruvian Food,Peruvian Food,ethnic
+76,Malaysian,Malaysian,Malaysian Food,Malaysian Food,ethnic
+80,Puerto Rican,Puerto Rican,Puerto Rican Food,Puerto Rican Food,ethnic
+81,Jamaican,Jamaican,Jamaican Food,Jamaican Food,ethnic
+89,Dessert,Dessert,Dessert,Dessert,not
+93,Fresh Fruits,Fresh Fruit,Fresh Fruit,Fresh Fruit,not
+95,Dim Sum,Dim Sum,Dim Sum,Dim Sum,not
+97,Organic,Organic,Organic Food,Organic Food,not
+101,Soul Food,Soul Food,Soul Food,Soul Food,not
+105,Kosher-Style,Kosher,Kosher Food,Kosher Food,ethnic
+106,Chicken,Chicken,Chicken,Chicken,not
+108,Ice Cream,Ice Cream,Ice Cream,Ice Cream,not
+109,Persian,Persian,Persian Food,Persian Food,ethnic
+110,Cuban,Cuban,Cuban Food,Cuban Food,ethnic
+111,African,African,African Food,African Food,ethnic
+112,Russian,Russian,Russian Food,Russian Food,ethnic
+113,Cambodian,Cambodian,Cambodian Food,Cambodian Food,ethnic
+114,Lunch Specials,Lunch,Lunch,Lunch,not
+115,Hamburgers,Hamburger,Hamburgers,Hamburger,not
+116,Wings,Chicken Wing,Chicken Wings,Chicken Wing,not
+117,Brazilian,Brazilian,Brazilian Food,Brazilian Food,ethnic
+118,Kids Menu,Kids Menu,Kids Menus,Kids Menu,not
+119,Polish,Polish,Polish Food,Polish Food,ethnic
+120,Hawaiian,Hawaiian,Hawaiian Food,Hawaiian Food,ethnic
+121,Latin American,Latin American,Latin American Food,Latin American Food,ethnic
+122,Argentinian,Argentinian,Argentinian Food,Argentinian Food,ethnic
+123,Colombian,Colombian,Colombian Food,Colombian Food,ethnic
+127,German,German,German Food,German Food,ethnic
+128,Irish,Irish,Irish Food,Irish Food,ethnic
+131,South American,South American,South American Food,South American Food,ethnic
+133,Hoagies,Hoagie,Hoagies,Hoagie,not
+134,Halal,Halal,Halal Food,Halal Food,ethnic
+135,Vegan,Vegan,Vegan Food,Vegan Food,not
+136,Moroccan,Moroccan,Moroccan Food,Moroccan Food,ethnic
+177,Dinner,Dinner,Dinner,Dinner,not
+184,Calzones,Calzone,Calzones,Calzone,not
+185,Cheesesteaks,Cheesesteak,Cheesesteaks,Cheesesteak,not
+186,Chili,Chili,Chili,Chili,not
+187,Coffee and Tea,Coffee & Tea,Coffee & Tea,Coffee & Tea,not
+189,Diner,Diner,Food From Diners,Diner,not
+194,Gyro,Gyro,Gyros,Gyro,not
+196,Hot Dogs,Hot Dog,Hot Dogs,Hot Dog,not
+202,Potato,Potato,Potatoes,Potatoe,not
+203,Pub Food,Pub Food,Pub Food,Pub Food,not
+205,Smoothies and Juices,Smoothy & Juice,Smoothies & Juices,Smoothie & Juice,not
+64,Low Fat,Low Fat,Low Fat Food,Low Fat Food,not
+68,Ecuadorian,Ecuadorian,Ecuadorian Food,Ecuadorian Food,ethnic
+83,Alcohol,Alcohol,Alcohol,Alcohol,not
+178,Afghan,Afghan,Afghan Food,Afghan Food,ethnic
+179,New American,New American,New American Food,New American Food,ethnic
+181,Belgian,Belgian,Belgian Food,Belgian Food,ethnic
+183,Californian,Californian,Californian Food,Californian Food,ethnic
+188,Crepes,Crepe,Crepes,Crepe,not
+190,Dominican,Dominican,Dominican Food,Dominican Food,ethnic
+192,Ethiopian,Ethiopian,Ethiopian Food,Ethiopian Food,ethnic
+193,Filipino,Filipino,Filipino Food,Filipino Food,ethnic
+199,Nepalese,Nepalese,Nepalese Food,Nepalese Food,ethnic
+200,Pakistani,Pakistani,Pakistani Food,Pakistani Food,ethnic
+201,Pitas,Pitas,Pitas,Pita,not
+207,Southern,Southern,Southern Food,Southern Food,ethnic
+208,Southwestern,Southwestern,Southwestern Food,Southwestern Food,ethnic
+210,Tex-Mex,Tex-Mex,Tex-Mex Food,Tex-Mex Food,not
+213,Venezuelan,Venezuelan,Venezuelan Food,Venezuelan Food,ethnic
+214,Shakes,Shakes,Shakes,Shake,not
+215,Gluten-Free,Gluten-Free,Gluten-Free Food,Gluten-Free Food,ethnic
+216,Lunch,Lunch,Lunch,Lunch,not
+217,Grocery Items,Grocery Items,Grocery Items,Grocery Item,not
+218,Empanadas,Empanadas,Empanadas,Empanadas,ethnic
+219,Frozen Yogurt,Frozen Yogurt,Frozen Yogurt,Frozen Yogurt,not
+220,Kosher,Kosher,Kosher Food,Kosher Food,ethnic
